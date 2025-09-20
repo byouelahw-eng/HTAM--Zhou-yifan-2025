@@ -18,7 +18,7 @@ I went to the fablab and used the Revo scanner. The accompanying software was in
 
 ## SCANNING PROCESS
 ### DATE：2025-9-19
-#### GOALS
+#### GOAL
 ·Using the handheld scanner from Revo to perform the scan. I prefer the level of detail achieved by the scanner, so I went to the fablab.
 
 #### PROCESS
@@ -30,48 +30,23 @@ Saverio told us that the white dots on the automatic turntable are used to posit
 At first, I tried to complete the part that couldn't be scanned by simply holding up the shark and placing the bottom surface directly in front of the scanner. However, this would cause the scanner to lose its positioning.Then, we changed the position of the small shark and conducted a second scan - this was because in a single scan, certain parts might be missed due to the placement angle, although the turntable had rotated 360 degrees; multiple scans could complete the scanning of the entire object and obtain multiple different 3D models. By combining the two models from different angles, we finally obtained a scanning model with fewer flaws.
 
 [the bottom of the shark](IMAGES/9aad80bf3a672a6837d286d40097dac6.jpg)
+
 [scanning from another position](IMAGES/563e481ea521ca3c08088352972a0a72.jpg)
 
 #### RESULT
+After obtaining the individual model, I used the mesh construction feature in Revo to convert the point cloud into a mesh and then merged them. Thus, I obtained a rough shark scanning model - but due to the surface material, there were many bumpy and uneven marks on it, along with some small holes and unnecessary overlapping parts - I need to deal with these issues.
 
-
----
-
-## 处理过程
-
-### 日期：YYYY-MM-DD
-#### 目标
-今天要处理哪些数据？期望达到什么效果？
-
-#### 软件与工具
-- 使用的软件（如MeshLab、Blender等）
-- 参数设置（如滤波、配准参数）
-
-#### 处理步骤
-- 导入数据：顺利吗？有什么问题？
-- 清理噪声：尝试了哪些方法？哪种最有效？
-- 拼接与修复：遇到了什么挑战？如何解决的？
-- 情绪与反思：是否遇到瓶颈？如何突破的？
-
-#### 中间结果
-- 截图或视频展示进展
-- 文件链接（如OBJ/STL文件）
+YOU CAN SEE SOME OVERLAPPING PARTS HERE [The imported model after being loaded into Blender](IMAGES/deebacf55a7307f4602cfab04bd9bc61.jpg)
 
 ---
 
-## 最终结果与反思
-### 成品展示
-- 嵌入3D模型（如使用GitHub的3D查看器）
-- 渲染图或动画
+## PROCESSING
 
-### 总体反思
-- 最大的挑战是什么？
-- 最成功的部分是什么？
-- 如果重来一次，你会怎么做？
-- 这个项目给你带来了什么收获？
+### DATE：2025-9-20
+#### GOALS
+The original software had built-in functions such as "one-click processing", "hole filling", and "smoothing", and it could also simplify the mesh to reduce the number of model faces. However, I was still not satisfied with the result after such processing, so I hoped to further refine it using Blender.
 
----
+#### REFINING PROCESS
+First, I selected and deleted all the redundant parts. Then, I applied the "smooth" effect of the sculpting mode to the surface of the shark. At the same time, I removed the redundant labels and smoothed out the bottom of the shark to facilitate printing.
 
-## 附录
-- 资源链接（软件下载、教程参考）
-- 致谢（如果有人帮助了你）
+[A before-and-after comparison picture](b0b43d5148ead0c0b4ef4a2c2ba6dc6a.jpg)
