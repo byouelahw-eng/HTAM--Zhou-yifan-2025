@@ -14,26 +14,26 @@ In the HTAM class, we attempted to use Revo for scanning the cucumbers and the i
 ## SOFTWARE & EQUIPMENTS USED
 I went to the fablab and used the Revo scanner. The accompanying software was installed on my laptop. The object I scanned was this grey plush little shark. (I wasn't sure about the reflection on the plush surface, so I was quite worried that something might go wrong during the scanning process.)
 
-## 扫描过程
+[an image of the scanned object](IMAGES/b035562e8b9405cb295313f4e4cd3967.jpg)
 
-### 日期：2025-9-19
-#### 目标
-今天打算做什么？为什么？
+## SCANNING PROCESS
+### DATE：2025-9-19
+#### GOALS
+·Using the handheld scanner from Revo to perform the scan. I prefer the level of detail achieved by the scanner, so I went to the fablab.
 
-#### 准备工作
-- 设备清单（扫描仪、软件、灯光等）
-- 环境设置（如光线、背景）
+#### PROCESS
+First, I attempted to use the manual turntable instead of the automatic one (actually because I didn't know how to connect the automatic turntable... ) However, the model has many flaws and misalignments.
 
-#### 尝试与过程
-描述具体步骤，但以故事形式：
-- 第一次尝试：发生了什么？遇到了什么问题？
-- 调整后：改变了什么？为什么？
-- 情绪和想法：当时感到沮丧？兴奋？有新的灵感？
+[an image of USING THE MANUAL TURNTABLE](IMAGES/ddaf83b516bfc966c979b7b629c8d3d7.jpg)
 
-#### 结果
-- 成功的地方（附图片/视频）
-- 失败的地方（附图片/视频）
-- 初步反思
+Saverio told us that the white dots on the automatic turntable are used to position the scanner. Therefore, compared to handheld scanning and manual turntable scanning, using the automatic turntable will result in higher accuracy.
+At first, I tried to complete the part that couldn't be scanned by simply holding up the shark and placing the bottom surface directly in front of the scanner. However, this would cause the scanner to lose its positioning.Then, we changed the position of the small shark and conducted a second scan - this was because in a single scan, certain parts might be missed due to the placement angle, although the turntable had rotated 360 degrees; multiple scans could complete the scanning of the entire object and obtain multiple different 3D models. By combining the two models from different angles, we finally obtained a scanning model with fewer flaws.
+
+[the bottom of the shark](IMAGES/9aad80bf3a672a6837d286d40097dac6.jpg)
+[scanning from another position](IMAGES/563e481ea521ca3c08088352972a0a72.jpg)
+
+#### RESULT
+
 
 ---
 
