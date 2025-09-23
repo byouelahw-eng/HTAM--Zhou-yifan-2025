@@ -6,15 +6,17 @@ MY PERSONAL DOCUMENTATION OF THE COURSE [HOW THINGS ARE MADE] IN TONGJI
 ## Preliminary experiment
 In the HTAM class, we attempted to use Revo for scanning the cucumbers and the iPad's camera to do face scanning. The point cloud scanning by Revo was relatively fine, but some displacements occurred during the experiments in class; the iPad camera's scanning accuracy was not high and it was prone to deviation, but when used in the coarse model state, it had achieved a relatively satisfactory result.
 
-[image during classes, scanning hulu](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
+![image during classes, scanning hulu](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
+image during classes, scanning hulu
 
-[image during classes, Saverio doing face-scanning](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
-
+![image during classes, Saverio doing face-scanning](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
+image during classes, Saverio doing face-scanning
 
 ## SOFTWARE & EQUIPMENTS USED
 I went to the fablab and used the Revo scanner. The accompanying software was installed on my laptop. The object I scanned was this grey plush little shark. (I wasn't sure about the reflection on the plush surface, so I was quite worried that something might go wrong during the scanning process.)
 
-[an image of the scanned object](IMAGES/b035562e8b9405cb295313f4e4cd3967.jpg)
+![an image of the scanned object](IMAGES/b035562e8b9405cb295313f4e4cd3967.jpg)
+an image of the scanned object
 
 ## SCANNING PROCESS
 ### DATE：2025-9-19
