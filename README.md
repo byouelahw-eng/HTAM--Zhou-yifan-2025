@@ -9,7 +9,7 @@ In the HTAM class, we attempted to use Revo for scanning the cucumbers and the i
 ![image during classes, scanning hulu](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
 image during classes, scanning hulu
 
-![image during classes, Saverio doing face-scanning](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
+![image during classes, Saverio doing face-scanning](IMAGES/ba1f5a06cff6988869dcb0be5b1c7e48.jpg)
 image during classes, Saverio doing face-scanning
 
 ## SOFTWARE & EQUIPMENTS USED
