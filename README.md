@@ -4,6 +4,7 @@ MY PERSONAL DOCUMENTATION OF THE COURSE [HOW THINGS ARE MADE] IN TONGJI
 # 3D SCANNING EXPERIMENT(S)
 
 ## Preliminary experiment
+### DATE：2025-9-17
 In the HTAM class, we attempted to use Revo for scanning the cucumbers and the iPad's camera to do face scanning. The point cloud scanning by Revo was relatively fine, but some displacements occurred during the experiments in class; the iPad camera's scanning accuracy was not high and it was prone to deviation, but when used in the coarse model state, it had achieved a relatively satisfactory result.
 
 ![image during classes, scanning hulu](IMAGES/126a311a96a59399c0f872aab2f276f3.jpg)
@@ -75,6 +76,7 @@ And here comes the shoe!
 
 ![shoe in blender](IMAGES/d091f4c1f76ef62d0d7e78f12197de87.jpg)
 
+#### RESULT
 I made this in blender.I referred to a shoe modeling tutorial on Bilibili. However, since the final purpose of using the model in this tutorial was not 3D printing, some of the surfaces were not properly closed, and a hollow structure was also designed - therefore, I made some adjustments to it. You can view the bilibili tutorial here: 【blender：鞋子建模-哔哩哔哩】 https://b23.tv/UOIQoTd
 and when it was assembled onto the shark, it looks like this:
 
@@ -82,3 +84,21 @@ and when it was assembled onto the shark, it looks like this:
 
 I exported it in stl file type and, it was finally ready to be printed...Maybe.
 
+
+
+# 3D PRINTING EXPERIMENT(S)
+
+## Preliminary experiment
+### DATE：2025-9-23
+Similarly, in the classroom, under the guidance of the teacher, we completed the 3D printing process using a desktop 3D printer and the Ultimaker Cura software for slicing data export. During this process, we set the layer height, used the brim setting, adjusted the model size, and modified the print edge thickness. We printed a 2cm*2cm*2cm cube through the desktop printer:
+
+![printer](IMAGES/7b2a6602aaf83f975ce3da1815c2835d.jpg)
+
+The printer we used - a quite simple one
+
+![cube](IMAGES/793bcadc9d9abb6ffefe6eab4191f580.jpg)
+
+To test it, we printed this through the printer. I The only problem is that I mistakenly added a brim to this object - it has a flat bottom, so in fact this step is not necessary - so when removing this cube, the excess brim becomes very difficult to clean.
+
+## My FIRST TRY - FAILED
+### DATE：2025-9-24
