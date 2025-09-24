@@ -84,6 +84,7 @@ and when it was assembled onto the shark, it looks like this:
 
 I exported it in stl file type and, it was finally ready to be printed...Maybe.
 
+---
 
 
 # 3D PRINTING EXPERIMENT(S)
@@ -102,7 +103,20 @@ To test it, we printed this through the printer. I The only problem is that I mi
 
 ## My FIRST TRY - FAILED
 ### DATE：2025-9-24
+I set up the slicing for the model of the little shark wearing shoes in Cura, added support, and proceeded with the printing. The printer worked very smoothly - I envisioned printing a mini version as a test model first, and then a larger final version.
 
-<span style="color: red">CHECK THIS FAILED OBJECT. THERE ARE TWO MAIN PROBLEMS:
+![printing](IMAGES/f9ef5e8e469865297abf3d43f3a26c30.jpg)
+The printer worked smoothly.
+
+![tiny version](IMAGES/64d406f9cca247a6de25f748689de105.jpg)
+Here is the printed object
+
+Although this model is just a mini test version, I still think it is not a success.I fought with the support of this model for twenty minutes. Eventually, I had to admit that I simply couldn't remove it from the model surface without causing any damage to the model.
+
+![failed](IMAGES/d9f0d0563c36d0e8c7e434930dc63263.jpg)
+
+CHECK THIS FAILED OBJECT. THERE ARE TWO MAIN PROBLEMS:
 1. THE SIZE IS TOOOO SMALL: When I went to the fablab, it was already 4:40. So I had only at most 20 minutes to finish the whole printing - I thought I could do a smaller one at first to make sure if there was anything going wrong with my model. So I did one witch was only 4mm in height.
-2. THE SUPPORT IS...TO BE HONEST, IT'S LIKE A PRISON: When setting up the model's support, I did not choose the tree-like option. At the same time, I set the contact area to "everywhere" and did not change the contact distance between the support top and the model - this resulted in it becoming extremely sturdy, dense, and difficult to disassemble.</span>
+2. THE SUPPORT IS...TO BE HONEST, IT'S LIKE A PRISON: When setting up the model's support, I did not choose the tree-like option. At the same time, I set the contact area to "everywhere" and did not change the contact distance between the support top and the model - this resulted in it becoming extremely sturdy, dense, and difficult to disassemble.
+
+I WILL TRY ANOTHER BIGGER ONE TOMORROW.
