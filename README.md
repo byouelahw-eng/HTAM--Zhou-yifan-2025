@@ -54,8 +54,19 @@ The imported model after being loaded into Blender
 #### PRETREATMENT
 After completing the smoothing of the model's surface, I was still not satisfied with its quality. Therefore, I used Blender's sculpting mode to further process it, making it more like a hard-surface toy model. I smoothed out the facial features of the shark and re-carved them. 
 
+![shark, with its face removed](IMAGES/5ec0d4097e9a09ef721b74b285d19ae8.jpg)
+shark, with its face removed
+
+
+![pretreated model](IMAGES/f146f38221e4098a9a5080f602e0b9a5.jpg)
+pretreated model
+
 #### REMIXXING
 To make some alterations to the original model, I have considered several ways to redesign the shark. I plan to add some new clothes or accessories to it to bring about a slight change in its appearance.
 Then I came up with a meme.
+
+![the meme](IMAGES/ba117a3c57c2cd0772697ade3cc1d3b5.jpg)
+Exactly this one - these kind of ai creatures once filled my online platform life, i could see them everywhere - i have completely no idea why:)
+So I decided to give this tiny little shark... A pair of shoes. Sport shoes, perhaps nike or anta.
 
 
