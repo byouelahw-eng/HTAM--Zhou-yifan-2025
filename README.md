@@ -48,14 +48,14 @@ The imported model after being loaded into Blender
 
 ---
 
-## PROCESSING
+## REMIXXING PROCESS
 
-### DATE：2025-9-20
-#### GOALS
-The original software had built-in functions such as "one-click processing", "hole filling", and "smoothing", and it could also simplify the mesh to reduce the number of model faces. However, I was still not satisfied with the result after such processing, so I hoped to further refine it using Blender.
+### DATE：2025-9-23
+#### PRETREATMENT
+After completing the smoothing of the model's surface, I was still not satisfied with its quality. Therefore, I used Blender's sculpting mode to further process it, making it more like a hard-surface toy model. I smoothed out the facial features of the shark and re-carved them. 
 
-#### REFINING PROCESS
-First, I selected and deleted all the redundant parts. Then, I applied the "smooth" effect of the sculpting mode to the surface of the shark. At the same time, I removed the redundant labels and smoothed out the bottom of the shark to facilitate printing.
+#### REMIXXING
+To make some alterations to the original model, I have considered several ways to redesign the shark. I plan to add some new clothes or accessories to it to bring about a slight change in its appearance.
+Then I came up with a meme.
 
-![A before-and-after comparison picture](b0b43d5148ead0c0b4ef4a2c2ba6dc6a.jpg)
-A before-and-after comparison picture
+
