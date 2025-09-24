@@ -102,3 +102,7 @@ To test it, we printed this through the printer. I The only problem is that I mi
 
 ## My FIRST TRY - FAILED
 ### DATE：2025-9-24
+
+<span style="color: red">CHECK THIS FAILED OBJECT. THERE ARE TWO MAIN PROBLEMS:
+1. THE SIZE IS TOOOO SMALL: When I went to the fablab, it was already 4:40. So I had only at most 20 minutes to finish the whole printing - I thought I could do a smaller one at first to make sure if there was anything going wrong with my model. So I did one witch was only 4mm in height.
+2. THE SUPPORT IS...TO BE HONEST, IT'S LIKE A PRISON: When setting up the model's support, I did not choose the tree-like option. At the same time, I set the contact area to "everywhere" and did not change the contact distance between the support top and the model - this resulted in it becoming extremely sturdy, dense, and difficult to disassemble.</span>
