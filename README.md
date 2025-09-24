@@ -44,11 +44,12 @@ After obtaining the individual model, I used the mesh construction feature in Re
 YOU CAN SEE SOME OVERLAPPING PARTS HERE 
 
 ![The imported model after being loaded into Blender](IMAGES/deebacf55a7307f4602cfab04bd9bc61.jpg)
+
 The imported model after being loaded into Blender
 
 ---
 
-## REMIXXING PROCESS
+## REMIXING PROCESS
 
 ### DATE：2025-9-23
 #### PRETREATMENT
@@ -61,12 +62,23 @@ shark, with its face removed
 ![pretreated model](IMAGES/f146f38221e4098a9a5080f602e0b9a5.jpg)
 pretreated model
 
-#### REMIXXING
+#### REMIXING
 To make some alterations to the original model, I have considered several ways to redesign the shark. I plan to add some new clothes or accessories to it to bring about a slight change in its appearance.
 Then I came up with a meme.
 
 ![the meme](IMAGES/ba117a3c57c2cd0772697ade3cc1d3b5.jpg)
+
 Exactly this one - these kind of ai creatures once filled my online platform life, i could see them everywhere - i have completely no idea why:)
 So I decided to give this tiny little shark... A pair of shoes. Sport shoes, perhaps nike or anta.
 
+And here comes the shoe!
+
+![shoe in blender](IMAGES/d091f4c1f76ef62d0d7e78f12197de87.jpg)
+
+I made this in blender.I referred to a shoe modeling tutorial on Bilibili. However, since the final purpose of using the model in this tutorial was not 3D printing, some of the surfaces were not properly closed, and a hollow structure was also designed - therefore, I made some adjustments to it. You can view the bilibili tutorial here: 【blender：鞋子建模-哔哩哔哩】 https://b23.tv/UOIQoTd
+and when it was assembled onto the shark, it looks like this:
+
+![final model](IMAGES/e2506d4b90a76844f382d4351e9ea96f.jpg)
+
+I exported it in stl file type and, it was finally ready to be printed...Maybe.
 
