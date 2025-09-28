@@ -120,3 +120,9 @@ CHECK THIS FAILED OBJECT. THERE ARE TWO MAIN PROBLEMS:
 2. THE SUPPORT IS...TO BE HONEST, IT'S LIKE A PRISON: When setting up the model's support, I did not choose the tree-like option. At the same time, I set the contact area to "everywhere" and did not change the contact distance between the support top and the model - this resulted in it becoming extremely sturdy, dense, and difficult to disassemble.
 
 I WILL TRY ANOTHER BIGGER ONE TOMORROW.
+
+
+## My SECOND TRY 
+### DATE：2025-9-26/27
+
+![SECOND ONE](IMAGES/c368a0290c9145ff6bfcae921ff56657.jpg)
