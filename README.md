@@ -130,4 +130,27 @@ I WILL TRY ANOTHER BIGGER ONE TOMORROW.
 This model was also made with a simple desktop printer. I changed the form of the support and used a tree-like support. It is about 8.5 cm tall. The support is a bit easier to remove than the first version, but it is still very rough. I spent two hours removing the support with a file and scissors, but there are still many particles and uneven parts remaining on the contact surface. It looks like a little shark wearing an underwear...
 
 The biggest problem this model faces is that the printer's working quality makes it hard to fully display all the details. I'm worried that the insufficient setting of the tilt angle will cause collapse during printing, so the support is still very dense and extremely difficult to disassemble. I'm planning to sand this model first and then try to find a higher-quality printer.
+8
+
+## HERE COMES THE SAVIOR...MY THIRD TRY
+### DATE：2025-9-28
+This Sunday, I attended the 3D Printing Shoe Design Workshop at WDCC, a collaborative project between bambu lab and our college. A bambu staff member demonstrated how to operate their state-of-the-art H2D printer—— which is five to six times larger than the model we used in class! The printer employs bambu studio software for slicing and support settings, similar to the operation interface of Cura software. In the morning, while other workshop participants were working on shoe upper material testing, I used the printer with PLA gray material to create my own shark model.
+
+![H2D PRINTERS](IMAGES/73e2fcb1491e21cb994a058b0e588ac9.jpg)
+
+H2D printers
+
+My setup was 0.4 nozzle, 0.2 height, 15% density, square inside, 0.8mm wall thickness, tree support, and I took a second to remove all the supports after printing...
+
+![material used](IMAGES/d934eda1ef10f53e6f1dff58c8b69d13.jpg)
+
+Material used
+
+![while printing](IMAGES/5037d122a160fc2ae3da1a2cf33e32a8.jpg)
+
+While printing
+
+![comparison](IMAGES/cf44c473ab015d4c272f4a800a9c543e.jpg)
+
+Comparison
 
