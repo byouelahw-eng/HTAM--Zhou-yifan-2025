@@ -126,3 +126,8 @@ I WILL TRY ANOTHER BIGGER ONE TOMORROW.
 ### DATE：2025-9-26/27
 
 ![SECOND ONE](IMAGES/c368a0290c9145ff6bfcae921ff56657.jpg)
+
+This model was also made with a simple desktop printer. I changed the form of the support and used a tree-like support. It is about 8.5 cm tall. The support is a bit easier to remove than the first version, but it is still very rough. I spent two hours removing the support with a file and scissors, but there are still many particles and uneven parts remaining on the contact surface. It looks like a little shark wearing an underwear...
+
+The biggest problem this model faces is that the printer's working quality makes it hard to fully display all the details. I'm worried that the insufficient setting of the tilt angle will cause collapse during printing, so the support is still very dense and extremely difficult to disassemble. I'm planning to sand this model first and then try to find a higher-quality printer.
+
