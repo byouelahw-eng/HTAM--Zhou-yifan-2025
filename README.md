@@ -154,3 +154,16 @@ While printing
 
 Comparison
 
+Meanwhile, the bambu lab also offers TPU material. This relatively soft material requires a 0.6mm nozzle for the 85A model, so I spent considerable time replacing nozzles for users who came to print. In the end, I attempted to use the 85A model to print a small shark. However, since the materials weren't properly dried, the finished product developed some stringing.
+So here's the final products------
+
+## FINAL
+
+From left to right are the original shark, the shark printed by the desktop printer, the bambu PLA shark and the bambu TPU shark.
+
+![final](IMAGES/82a9410da954c428f409d0846589a2b9.jpg)
+
+THANKS FOR WATCHING
+
+
+
